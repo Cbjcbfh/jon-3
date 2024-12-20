@@ -28,7 +28,7 @@ settings_collection = db['settings0']  # A new collection to store global settin
 redeem_codes_collection = db['redeem_code-git']
 
 # Bot Configuration
-TELEGRAM_BOT_TOKEN = '@jonathanuu_bot'
+TELEGRAM_BOT_TOKEN = '7488495734:AAFDgv04yIRDrU_20v3mt-2vp_5RFYSCw5I'
 ADMIN_USER_ID = 5926215327  # Replace with your admin user ID
 
 # Cooldown dictionary and user attack history
